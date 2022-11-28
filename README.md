@@ -10,6 +10,7 @@
 
 ![img](ss/flowchart.jpg)
 
+
 - Lalu buatlah sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 ```
 Data = {}
