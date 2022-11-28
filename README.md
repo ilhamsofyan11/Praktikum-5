@@ -1,6 +1,12 @@
 # Pertemuan 10 (Praktikum 5)
 ### Daftar Nilai Mahasiswa Menggunakan **Dictionary**
 
+#### Nama : Muhammad Ilham Sofyan Saifudin
+#### Kelas: TI 22 A3
+#### NIM  : 312210297
+
+#### Flowchart
+![img](ss/flowchart.jpg)
 - Pertama tama buatlah sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 ```
 Data = {}
@@ -12,7 +18,7 @@ while True:
     List = input("\n(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar: ")
 ```
 - Membuat syntax untuk menambahkan data.
-Disini ketika kita menginputkan 't' maka akan diminta untuk menginputkan beberapa data.
+- Disini ketika kita menginputkan 't' maka akan diminta untuk menginputkan beberapa data.
 ```
 if List.lower() == 't':
         print("Tambah Data")
@@ -26,7 +32,7 @@ if List.lower() == 't':
 ```
 
 - Membuat syntax untuk mengubah data.
-Ketika kita menginput 'u' maka akan muncul keterangan untuk mengubah data dan akan diminta untuk menginputkan nama yang mau diubah datanya, apabila nama tidak tersedia maka muncul output "Nama {} tidak ditemukan".
+- Ketika kita menginput 'u' maka akan muncul keterangan untuk mengubah data dan akan diminta untuk menginputkan nama yang mau diubah datanya, apabila nama tidak tersedia maka muncul output "Nama {} tidak ditemukan".
 ```
 elif List.lower() == 'u':
         print("Ubah Data")
@@ -44,7 +50,7 @@ elif List.lower() == 'u':
 
 
 - Membuat syntax untuk menghapus data.
-Saat kita menginput 'h' maka akan diminta menginput nama yang akan dihapus.Jika nama tersedia di dalam dictionary,maka system akan menghapus nama tersebut.
+- Saat kita menginput 'h' maka akan diminta menginput nama yang akan dihapus.Jika nama tersedia di dalam dictionary,maka system akan menghapus nama tersebut.
 ```
 elif List.lower() == 'h':
         print("Hapus Data")
