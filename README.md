@@ -6,7 +6,8 @@
 #### NIM  : 312210297
 
 ### Flowchart
-- Pertama buatlah flowchart
+- Pertama tama buatlah flowchart sebelum membuat programnya
+
 ![img](ss/flowchart.jpg)
 
 - Lalu buatlah sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
