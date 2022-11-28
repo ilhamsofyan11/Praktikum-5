@@ -107,7 +107,7 @@ elif List.lower() == 'l':
             print("="*78)
             print("|                                TIDAK ADA DATA                              |")
             print("="*78)
-            ```
+```
 
 - Membuat syntax untuk menghentikan perulangan.
 - Disaat kita menginput 'k' maka program akan langsung terhenti.
@@ -115,7 +115,7 @@ elif List.lower() == 'l':
 ```
  elif List.lower() == 'k':
             break
-            ```
+```
 
 
 - Membuat syntax untuk memilih pilihan yang tidak ada di dalam menu.
