@@ -1,12 +1,7 @@
-# Pertemuan 10
-## Praktikum 5
-## Tugas Praktikum
+# Pertemuan 10 (Praktikum 5)
 ### Daftar Nilai Mahasiswa Menggunakan **Dictionary**
-- Pertama kita membuat sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
-```
-Data = {}
-```
-- Lalu kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program.
+
+- Buat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program.
 ```
 while True:
     List = input("\n(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar: ")
