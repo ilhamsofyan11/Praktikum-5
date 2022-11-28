@@ -5,9 +5,11 @@
 #### Kelas: TI 22 A3
 #### NIM  : 312210297
 
-#### Flowchart
+### Flowchart
+- Pertama buatlah flowchart
 ![img](ss/flowchart.jpg)
-- Pertama tama buatlah sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
+
+- Lalu buatlah sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 ```
 Data = {}
 ```
