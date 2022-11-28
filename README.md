@@ -1,10 +1,10 @@
 # Pertemuan 10 (Praktikum 5)
-### Daftar Nilai Mahasiswa Menggunakan **Dictionary**
 
 #### Nama : Muhammad Ilham Sofyan Saifudin
 #### Kelas: TI 22 A3
 #### NIM  : 312210297
 
+### Daftar Nilai Mahasiswa Menggunakan **Dictionary**
 ### Flowchart
 - Pertama tama buatlah flowchart sebelum membuat programnya
 
