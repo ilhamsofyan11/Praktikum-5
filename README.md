@@ -114,12 +114,13 @@ elif List.lower() == 'l':
 ```
  elif List.lower() == 'k':
             break
-```
+
 
 - Membuat syntax untuk memilih pilihan yang tidak ada di dalam menu.
 - Jika kita menginput kata selain yang ada di dalam menu disamping(t, u, h, c, l, k) maka kita akan diminta oleh system untuk memilih menu yang tersedia.
+
 ```
  else:
         print("Pilih menu yang tersedia")
-```
+
 
